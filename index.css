@@ -1,0 +1,19 @@
+
+
+.container{
+    width: 500px;
+    align-content: center;
+    align-content:space-around;
+    margin-top: 200px;
+
+}
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLFcqALhXW_7fICeYtH2LckNbvpQBm-I_LNw&usqp=CAU);
+}
+.list-group-item{
+    color: aliceblue;
+    background-color: transparent;
+}
+.card{
+    background-color: transparent;
+}
